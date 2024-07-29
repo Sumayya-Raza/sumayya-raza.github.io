@@ -1,0 +1,18 @@
+.banner {
+  background-image: url(../images/banner.jpg);
+  height: 800px;
+  width: 100%;
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.banner .navbar-brand img {
+  width: 65px;
+  padding-top: 30px;
+}
+.banner .nav-link {
+  color: #fff;
+}
+.banner .nav-link.active {
+  color: orange;
+}/*# sourceMappingURL=-banner-two.css.map */

@@ -1,0 +1,34 @@
+.mt-150 {
+    margin-top: 150px;
+}
+
+.mt-135{
+    margin-top: 135px;
+}
+h3 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.section-two-heading{
+    width: 62%;
+    margin-left: 4.7em;
+
+}
+
+.orange-bg-section{
+    background-color: $orange;
+    height: 300px;
+    width: 100%;
+    .orange-description{
+        margin: 0 auto;
+    }
+    .orange-section-btn{
+        margin-left: 30em;
+        margin-top: 10px;
+    }
+}

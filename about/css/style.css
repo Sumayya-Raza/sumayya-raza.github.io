@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+* {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.green-btn {
+  background-color: #78ae9c;
+  border: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.orange-btn {
+  background-color: #eb8a51;
+  border: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.mt-150 {
+  margin-top: 150px;
+}
+
+.mt-135 {
+  margin-top: 135px;
+}
+
+h3 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.section-two-heading {
+  width: 62%;
+  margin-left: 4.7em;
+}
+
+.orange-bg-section {
+  background-color: #eb8a51;
+  height: 300px;
+  width: 100%;
+}
+.orange-bg-section .orange-description {
+  margin: 0 auto;
+}
+.orange-bg-section .orange-section-btn {
+  margin-left: 30em;
+  margin-top: 10px;
+}
+
+.banner {
+  background-image: url(../images/banner.jpg);
+  height: 800px;
+  width: 100%;
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.banner .navbar-brand img {
+  width: 65px;
+  padding-top: 30px;
+}
+.banner .nav-link {
+  color: #fff;
+}
+.banner .nav-link.active {
+  color: orange;
+}
+
+.box-section {
+  height: 350px;
+  width: 350px;
+}
+
+.box-section-logo {
+  text-align: center;
+}
+
+.bg-icon {
+  height: 60px;
+  width: 60px;
+  background-color: #78ae9c;
+  margin: 0 auto;
+}
+
+.clients-detail-img {
+  background-image: url(../images/clients-details.jpg);
+  height: 426px;
+  width: 100%;
+  background-size: 160%;
+  background-repeat: no-repeat;
+  background-position: 73.42% 50%;
+  border-radius: 20%;
+}
+
+.modelling-investment {
+  background-image: url(../images/modeling-investment.jpg);
+  height: 426px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 180%;
+  border-radius: 50px;
+}
+
+.green-bg {
+  background-color: #78ae9c;
+  width: 100%;
+  height: 150px;
+}
+
+.team-section-p {
+  margin: 0 auto;
+}
+
+.member-one {
+  background-image: url(../images/member-1.jpg);
+  height: 274px;
+  width: 100%;
+  border-radius: 20%;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.member-two {
+  background-image: url(../images/member-2.jpg);
+  height: 274px;
+  width: 100%;
+  border-radius: 20%;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.member-three {
+  background-image: url(../images/member-3.jpg);
+  height: 274px;
+  width: 100%;
+  border-radius: 20%;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.member-four {
+  background-image: url(../images/member-4.jpg);
+  height: 274px;
+  width: 100%;
+  border-radius: 20%;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.member-five {
+  background-image: url(../images/member-5.jpg);
+  height: 274px;
+  width: 100%;
+  border-radius: 20%;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.member-six {
+  background-image: url(../images/member-6.jpg);
+  height: 274px;
+  width: 100%;
+  border-radius: 20%;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+footer {
+  height: 400px;
+  width: 100%;
+  background-color: #293330;
+}/*# sourceMappingURL=style.css.map */

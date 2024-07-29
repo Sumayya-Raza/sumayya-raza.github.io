@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+.mt-135 {
+  margin-top: 135px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.company-section .company-logo {
+  height: 250px;
+}
+
+.orange-bg {
+  background-color: #eb8a51;
+  height: 200px;
+  width: 100%;
+}
+.orange-bg p {
+  padding-top: 70px;
+}
+
+.green-bg {
+  background-color: #78ae9c;
+  height: 600px;
+}
+
+.value-our-clients-logo img {
+  height: 30px;
+  background-color: #eb8a51;
+  border-radius: 100%;
+}
+
+.green-bg-logo {
+  height: 250px;
+  width: 50%;
+}
+
+.value {
+  height: 300px;
+}
+
+.map-img {
+  background-image: url(../images/new-york-map.webp);
+  height: 400px;
+  width: 100%;
+}
+
+.green-btn {
+  background-color: #78ae9c;
+  border: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.orange-btn {
+  background-color: #eb8a51;
+  border: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.banner {
+  background-image: url(../images/background-img.jpg);
+  height: 800px;
+  width: 100%;
+  background-position: 0 46.65%;
+  background-size: 140%;
+}
+
+.navbar-brand img {
+  width: 65px;
+  padding-top: 30px;
+}
+
+.nav-link {
+  color: #fff;
+}
+.nav-link.active {
+  color: orange;
+}
+
+.banner-three {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(../images/advance-solution.jpg);
+  height: 800px;
+  width: 100%;
+  background-position: 50% 50%;
+  background-size: 140%;
+}
+
+.navbar-brand img {
+  width: 65px;
+  padding-top: 30px;
+}
+
+.nav-link {
+  color: #fff;
+}
+.nav-link.active {
+  color: orange;
+}
+
+.assisting-clients {
+  background-image: url(../images/assisting-clients.jpg);
+  height: 400px;
+  width: 100%;
+  background-position: 50% 50%;
+  background-size: 110%;
+  border-radius: 50px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+.clients-details {
+  background-image: url(../images/clients-details.jpg);
+  height: 426px;
+  width: 100%;
+  background-size: 160%;
+  background-repeat: no-repeat;
+  background-position: 73.42% 50%;
+  border-radius: 20%;
+}
+
+.advance-solution {
+  background-image: url(..//images/advance-solution.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 220%;
+  height: 516px;
+  width: 100%;
+  border-radius: 50px;
+}
+
+.accordion-item {
+  border: none;
+}
+
+.accordion-button {
+  color: #78ae9c;
+  font-weight: bold;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+  color: #78ae9c;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: unset;
+}
+
+.accordion-button::after {
+  background-color: #eb8a51;
+  color: #fff;
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
+  border-radius: 10px;
+  background-size: 77%;
+  background-position: center center;
+}
+
+.value-our-clients {
+  height: 500px;
+  width: 100%;
+  background-color: #78ae9c;
+}
+
+.company-technology .company-technology-img {
+  background-image: url(../images/clients-details.jpg);
+  height: 710px;
+  width: 100%;
+  background-position: 50% 29.5%;
+  box-sizing: border-box;
+  background-size: 105%;
+  background-repeat: no-repeat;
+}
+
+.company-technology-logo {
+  padding-top: 10em;
+}
+
+.input {
+  width: 41%;
+}
+
+footer {
+  height: 400px;
+  width: 100%;
+  background-color: #293330;
+}/*# sourceMappingURL=style.css.map */
