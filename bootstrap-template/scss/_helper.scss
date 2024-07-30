@@ -1,0 +1,52 @@
+.mt-135 {
+    margin-top: 135px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+
+.company-section .company-logo{
+    height: 250px;
+
+}
+.orange-bg{
+    background-color: $orange;
+    height: 200px;
+    width: 100%;
+    p{
+        padding-top: 70px;
+    }
+}
+
+.green-bg{
+    background-color: $green;
+    height: 600px;
+}
+.value-our-clients-logo{
+    img{
+        height:30px;
+        background-color: $orange;
+        border-radius: 100%;
+    }   
+}
+.green-bg-logo{
+    height: 250px;
+    width: 50%;
+}
+.value{
+    height: 300px;
+}
+
+.map-img{
+    background-image: url(../images/new-york-map.webp);
+        height: 400px;
+        width: 100%;
+  
+}
